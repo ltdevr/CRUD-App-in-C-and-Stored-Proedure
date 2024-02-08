@@ -1,0 +1,10 @@
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\bin\Debug\CRUD_Csharp_1.exe.config
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\bin\Debug\CRUD_Csharp_1.exe
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\bin\Debug\CRUD_Csharp_1.pdb
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\obj\Debug\CRUD_Csharp_1.csproj.AssemblyReference.cache
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\obj\Debug\CRUD_Csharp_1.Form1.resources
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\obj\Debug\CRUD_Csharp_1.Properties.Resources.resources
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\obj\Debug\CRUD_Csharp_1.csproj.GenerateResource.cache
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\obj\Debug\CRUD_Csharp_1.csproj.CoreCompileInputs.cache
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\obj\Debug\CRUD_Csharp_1.exe
+D:\Users\novot\Documents\Projects\C#_projects\CRUD_Csharp_1\CRUD_Csharp_1\obj\Debug\CRUD_Csharp_1.pdb
